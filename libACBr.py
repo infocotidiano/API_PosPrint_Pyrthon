@@ -56,13 +56,12 @@ def DefineTamanhoLerValor(ANovoTamanho):
     RespostaLerValor = RespostaLerValor.encode("utf-8")
     return RespostaLerValor
     
+# Carregar a DLL, ajustes os paths para seu ambiente.
+acbr_lib = ctypes.CDLL(PATH_DLL)
 
 #Criando o ponteiro pra ser utilizado em MT
 ponteiro = c_int()
 ponteiro = POINTER(c_int)()
-
-# Carregar a DLL, ajustes os paths para seu ambiente.
-acbr_lib = ctypes.CDLL(PATH_DLL)
 
 # Verificação de tipo para Inicializar 
 acbr_lib.POS_Inicializar.argtypes = POINTER(POINTER(c_int)), c_char_p, c_char_p
@@ -111,16 +110,16 @@ def configPorta():
     EXEMPLO: ACBrLib para Impressora de Cupom
     ----------------------------- Configuração -------------------------------
     
-    Exemplos: Com1, LPT1, USB, raw:i9
+    Exemplos: Com1, LPT1, USB, raw:i9, TCP:192.168.1.12:9100
     
     '''
     )
     LPorta   = str(input(f'Digite a Porta (Porta Atual = {LPorta}) :'))
     #Gravar as informações no arquivo ACBrLib
     acbr_lib.POS_ConfigGravarValor(ponteiro,"PosPrinter".encode("utf-8"), "Porta".encode("utf-8"), LPorta.encode("utf-8"))
+    acbr_lib.POS_ConfigGravar(ponteiro,PATH_ACBRLIB.encode('utf-8'));
     
-
-#função para configurar modelo
+  #função para configurar modelo
 def configModelo():
     limpar_tela()
     LModelo, LPorta = CarregaConfiguracao()
@@ -143,4 +142,23 @@ def configModelo():
     )
     LModelo = str(input(f'Digite o código do Modelo (Modelo Atual = {LModelo}):'))
     acbr_lib.POS_ConfigGravarValor(ponteiro,"PosPrinter".encode("utf-8"), "Modelo".encode("utf-8"), LModelo.encode("utf-8"))
+    acbr_lib.POS_ConfigGravar(ponteiro,PATH_ACBRLIB.encode('utf-8'));
+        
+def imprimir(ATexto):
+    resultado = acbr_lib.POS_Ativar(ponteiro)
+    if resultado != 0:
+        print('Erro ao Ativar impressora, código: ',resultado)
+        sys.exit(1)
+        
+    eString = ctypes.create_string_buffer(len(ATexto))    
+    ctypes.memmove(eString, ATexto, len(ATexto))
+    resposta = acbr_lib.POS_InicializarPos(ponteiro)
+    if resposta != 0:
+        print('Erro ao inicializarPOS, código: ',resultado)
+        sys.exit(1) 
+    resposta = acbr_lib.POS_Imprimir(ponteiro, eString, True, True, True, 1)    
+    if resposta != 0:
+        print("Erro ao imprimir, código:",resposta)
+    else:
+        print("OK ao imprimir, código:",resposta)
     

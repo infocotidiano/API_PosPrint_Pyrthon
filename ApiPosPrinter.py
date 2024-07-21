@@ -2,8 +2,8 @@ import threading
 import sys
 import time
 import signal
-from flask import Flask, render_template, request, jsonify
-from libACBr import limpar_tela
+from flask import Flask, render_template, request, jsonify, json
+from libACBr import limpar_tela, configModelo, configPorta, imprimir
 
 app = Flask(__name__)
 
@@ -20,14 +20,10 @@ def submit():
             'text': text
         }
         # Aqui você pode chamar uma função Python com os dados
-        process_data(data)
+        imprimir(text.encode('utf-8'))
         return jsonify(data), 200
     else:
         return jsonify({'error': 'Texto é necessário'}), 400
-
-def process_data(data):
-    # Função de exemplo que processa os dados
-    print(f"Processando dados: {data}")
 
 def run_server():
     port = 5000
@@ -37,23 +33,28 @@ def run_server():
 def print_menu():
     limpar_tela()
     menu_text = """
-    1. Configura
-    2. Iniciar Servidor
+    1. Configura Modelo
+    2. Configura Porta 
+    3. Iniciar Servidor
     Pressione ESC para parar o servidor
     """
     print(menu_text)
 
 def main():
-    print_menu()
     
     server_thread = None
 
     while True:
+        limpar_tela()
+        print_menu()
         choice = input("Escolha uma opção: ")
         if choice == '1':
-            print("Configurações...")
             # Adicione aqui as opções de configuração
-        elif choice == '2':
+            configModelo()
+        if choice == '2':
+            # Adicione aqui as opções de configuração
+            configPorta()
+        elif choice == '3':
             if server_thread is None or not server_thread.is_alive():
                 server_thread = threading.Thread(target=run_server)
                 server_thread.daemon = True

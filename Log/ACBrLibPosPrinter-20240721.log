@@ -1,0 +1,1289 @@
+21/07/24 09:21:09:732 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 09:21:09:734 - Travar
+21/07/24 09:21:09:734 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 09:21:09:734 - Destravar
+21/07/24 09:21:09:734 - TLibPosPrinterConfig.Ler - Feito
+21/07/24 09:21:09:734 - Destravar
+21/07/24 09:21:09:734 - TACBrLibPosPrinter.Inicializar - Feito
+21/07/24 09:21:09:734 - LIB_Inicializar( c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI,  )
+21/07/24 09:21:09:735 -    ACBrLibPosPrinter - 1.0.0.209
+21/07/24 09:21:09:735 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,TipoResposta)
+21/07/24 09:21:09:736 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 09:21:09:736 - LIB_ConfigGravarValor(Principal, TipoResposta, 2)
+21/07/24 09:21:09:736 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,TipoResposta)
+21/07/24 09:21:09:736 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 09:21:09:736 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,TipoResposta,2)
+21/07/24 09:21:09:737 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 09:21:09:737 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 09:21:09:737 - Travar
+21/07/24 09:21:09:737 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 09:21:09:737 - Destravar
+21/07/24 09:21:09:738 -    SetRetorno(0, )
+21/07/24 09:21:09:738 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogNivel)
+21/07/24 09:21:09:739 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 09:21:09:739 - LIB_ConfigGravarValor(Principal, LogNivel, 4)
+21/07/24 09:21:09:739 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogNivel)
+21/07/24 09:21:09:740 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 09:21:09:740 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,LogNivel,4)
+21/07/24 09:21:09:740 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 09:21:09:740 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 09:21:09:741 - Travar
+21/07/24 09:21:09:741 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 09:21:09:741 - Destravar
+21/07/24 09:21:09:741 -    SetRetorno(0, )
+21/07/24 09:21:09:742 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogPath)
+21/07/24 09:21:09:742 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 09:21:09:743 - LIB_ConfigGravarValor(Principal, LogPath, c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\Log)
+21/07/24 09:21:09:743 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogPath)
+21/07/24 09:21:09:743 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 09:21:09:743 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,LogPath,c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\Log)
+21/07/24 09:21:09:744 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 09:21:09:744 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 09:21:09:744 - Travar
+21/07/24 09:21:09:745 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 09:21:09:745 - Destravar
+21/07/24 09:21:09:745 -    SetRetorno(0, )
+21/07/24 11:00:51:529 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 11:00:51:529 - Travar
+21/07/24 11:00:51:530 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 11:00:51:530 - Destravar
+21/07/24 11:00:51:530 - TLibPosPrinterConfig.Ler - Feito
+21/07/24 11:00:51:530 - Destravar
+21/07/24 11:00:51:530 - TACBrLibPosPrinter.Inicializar - Feito
+21/07/24 11:00:51:530 - LIB_Inicializar( c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI,  )
+21/07/24 11:00:51:531 -    ACBrLibPosPrinter - 1.0.0.209
+21/07/24 11:00:51:531 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,TipoResposta)
+21/07/24 11:00:51:531 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 11:00:51:531 - LIB_ConfigGravarValor(Principal, TipoResposta, 2)
+21/07/24 11:00:51:531 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,TipoResposta)
+21/07/24 11:00:51:531 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 11:00:51:531 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,TipoResposta,2)
+21/07/24 11:00:51:532 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 11:00:51:532 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 11:00:51:532 - Travar
+21/07/24 11:00:51:532 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 11:00:51:532 - Destravar
+21/07/24 11:00:51:533 -    SetRetorno(0, )
+21/07/24 11:00:51:533 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogNivel)
+21/07/24 11:00:51:533 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 11:00:51:533 - LIB_ConfigGravarValor(Principal, LogNivel, 4)
+21/07/24 11:00:51:534 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogNivel)
+21/07/24 11:00:51:534 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 11:00:51:534 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,LogNivel,4)
+21/07/24 11:00:51:534 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 11:00:51:534 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 11:00:51:536 - Travar
+21/07/24 11:00:51:536 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 11:00:51:536 - Destravar
+21/07/24 11:00:51:536 -    SetRetorno(0, )
+21/07/24 11:00:51:536 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogPath)
+21/07/24 11:00:51:536 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 11:00:51:537 - LIB_ConfigGravarValor(Principal, LogPath, c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\Log)
+21/07/24 11:00:51:537 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogPath)
+21/07/24 11:00:51:537 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 11:00:51:537 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,LogPath,c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\Log)
+21/07/24 11:00:51:537 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 11:00:51:538 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 11:00:51:538 - Travar
+21/07/24 11:00:51:538 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 11:00:51:538 - Destravar
+21/07/24 11:00:51:538 -    SetRetorno(0, )
+21/07/24 11:02:28:479 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 11:02:28:480 - Travar
+21/07/24 11:02:28:480 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 11:02:28:480 - Destravar
+21/07/24 11:02:28:480 - TLibPosPrinterConfig.Ler - Feito
+21/07/24 11:02:28:480 - Destravar
+21/07/24 11:02:28:481 - TACBrLibPosPrinter.Inicializar - Feito
+21/07/24 11:02:28:481 - LIB_Inicializar( c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI,  )
+21/07/24 11:02:28:481 -    ACBrLibPosPrinter - 1.0.0.209
+21/07/24 11:02:28:481 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,TipoResposta)
+21/07/24 11:02:28:481 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 11:02:28:482 - LIB_ConfigGravarValor(Principal, TipoResposta, 2)
+21/07/24 11:02:28:482 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,TipoResposta)
+21/07/24 11:02:28:482 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 11:02:28:483 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,TipoResposta,2)
+21/07/24 11:02:28:483 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 11:02:28:483 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 11:02:28:483 - Travar
+21/07/24 11:02:28:483 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 11:02:28:483 - Destravar
+21/07/24 11:02:28:483 -    SetRetorno(0, )
+21/07/24 11:02:28:484 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogNivel)
+21/07/24 11:02:28:484 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 11:02:28:484 - LIB_ConfigGravarValor(Principal, LogNivel, 4)
+21/07/24 11:02:28:484 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogNivel)
+21/07/24 11:02:28:485 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 11:02:28:485 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,LogNivel,4)
+21/07/24 11:02:28:485 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 11:02:28:485 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 11:02:28:485 - Travar
+21/07/24 11:02:28:486 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 11:02:28:486 - Destravar
+21/07/24 11:02:28:486 -    SetRetorno(0, )
+21/07/24 11:02:28:486 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogPath)
+21/07/24 11:02:28:486 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 11:02:28:487 - LIB_ConfigGravarValor(Principal, LogPath, c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\Log)
+21/07/24 11:02:28:487 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogPath)
+21/07/24 11:02:28:487 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 11:02:28:487 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,LogPath,c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\Log)
+21/07/24 11:02:28:488 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 11:02:28:488 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 11:02:28:488 - Travar
+21/07/24 11:02:28:488 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 11:02:28:488 - Destravar
+21/07/24 11:02:28:489 -    SetRetorno(0, )
+21/07/24 11:04:06:144 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 11:04:06:145 - Travar
+21/07/24 11:04:06:145 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 11:04:06:145 - Destravar
+21/07/24 11:04:06:145 - TLibPosPrinterConfig.Ler - Feito
+21/07/24 11:04:06:146 - Destravar
+21/07/24 11:04:06:146 - TACBrLibPosPrinter.Inicializar - Feito
+21/07/24 11:04:06:146 - LIB_Inicializar( c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI,  )
+21/07/24 11:04:06:146 -    ACBrLibPosPrinter - 1.0.0.209
+21/07/24 11:04:06:146 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,TipoResposta)
+21/07/24 11:04:06:147 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 11:04:06:147 - LIB_ConfigGravarValor(Principal, TipoResposta, 2)
+21/07/24 11:04:06:147 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,TipoResposta)
+21/07/24 11:04:06:147 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 11:04:06:148 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,TipoResposta,2)
+21/07/24 11:04:06:148 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 11:04:06:148 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 11:04:06:148 - Travar
+21/07/24 11:04:06:148 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 11:04:06:148 - Destravar
+21/07/24 11:04:06:148 -    SetRetorno(0, )
+21/07/24 11:04:06:150 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogNivel)
+21/07/24 11:04:06:150 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 11:04:06:150 - LIB_ConfigGravarValor(Principal, LogNivel, 4)
+21/07/24 11:04:06:150 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogNivel)
+21/07/24 11:04:06:151 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 11:04:06:151 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,LogNivel,4)
+21/07/24 11:04:06:151 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 11:04:06:151 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 11:04:06:151 - Travar
+21/07/24 11:04:06:151 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 11:04:06:151 - Destravar
+21/07/24 11:04:06:151 -    SetRetorno(0, )
+21/07/24 11:04:06:152 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogPath)
+21/07/24 11:04:06:152 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 11:04:06:152 - LIB_ConfigGravarValor(Principal, LogPath, c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\Log)
+21/07/24 11:04:06:152 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogPath)
+21/07/24 11:04:06:153 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 11:04:06:153 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,LogPath,c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\Log)
+21/07/24 11:04:06:153 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 11:04:06:153 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 11:04:06:153 - Travar
+21/07/24 11:04:06:153 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 11:04:06:153 - Destravar
+21/07/24 11:04:06:155 -    SetRetorno(0, )
+21/07/24 11:05:19:003 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 11:05:19:003 - Travar
+21/07/24 11:05:19:003 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 11:05:19:004 - Destravar
+21/07/24 11:05:19:004 - TLibPosPrinterConfig.Ler - Feito
+21/07/24 11:05:19:004 - Destravar
+21/07/24 11:05:19:005 - TACBrLibPosPrinter.Inicializar - Feito
+21/07/24 11:05:19:005 - LIB_Inicializar( c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI,  )
+21/07/24 11:05:19:005 -    ACBrLibPosPrinter - 1.0.0.209
+21/07/24 11:05:19:005 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,TipoResposta)
+21/07/24 11:05:19:005 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 11:05:19:006 - LIB_ConfigGravarValor(Principal, TipoResposta, 2)
+21/07/24 11:05:19:006 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,TipoResposta)
+21/07/24 11:05:19:006 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 11:05:19:006 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,TipoResposta,2)
+21/07/24 11:05:19:006 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 11:05:19:006 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 11:05:19:007 - Travar
+21/07/24 11:05:19:007 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 11:05:19:007 - Destravar
+21/07/24 11:05:19:007 -    SetRetorno(0, )
+21/07/24 11:05:19:008 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogNivel)
+21/07/24 11:05:19:009 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 11:05:19:009 - LIB_ConfigGravarValor(Principal, LogNivel, 4)
+21/07/24 11:05:19:009 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogNivel)
+21/07/24 11:05:19:009 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 11:05:19:010 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,LogNivel,4)
+21/07/24 11:05:19:010 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 11:05:19:010 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 11:05:19:010 - Travar
+21/07/24 11:05:19:010 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 11:05:19:010 - Destravar
+21/07/24 11:05:19:010 -    SetRetorno(0, )
+21/07/24 11:05:19:010 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogPath)
+21/07/24 11:05:19:010 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 11:05:19:010 - LIB_ConfigGravarValor(Principal, LogPath, c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\Log)
+21/07/24 11:05:19:012 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogPath)
+21/07/24 11:05:19:012 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 11:05:19:012 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,LogPath,c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\Log)
+21/07/24 11:05:19:013 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 11:05:19:013 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 11:05:19:014 - Travar
+21/07/24 11:05:19:014 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 11:05:19:014 - Destravar
+21/07/24 11:05:19:014 -    SetRetorno(0, )
+21/07/24 11:05:52:330 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 11:05:52:330 - Travar
+21/07/24 11:05:52:330 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 11:05:52:331 - Destravar
+21/07/24 11:05:52:331 - TLibPosPrinterConfig.Ler - Feito
+21/07/24 11:05:52:331 - Destravar
+21/07/24 11:05:52:331 - TACBrLibPosPrinter.Inicializar - Feito
+21/07/24 11:05:52:331 - LIB_Inicializar( c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI,  )
+21/07/24 11:05:52:331 -    ACBrLibPosPrinter - 1.0.0.209
+21/07/24 11:05:52:331 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,TipoResposta)
+21/07/24 11:05:52:331 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 11:05:52:332 - LIB_ConfigGravarValor(Principal, TipoResposta, 2)
+21/07/24 11:05:52:332 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,TipoResposta)
+21/07/24 11:05:52:332 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 11:05:52:332 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,TipoResposta,2)
+21/07/24 11:05:52:333 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 11:05:52:333 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 11:05:52:333 - Travar
+21/07/24 11:05:52:333 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 11:05:52:333 - Destravar
+21/07/24 11:05:52:333 -    SetRetorno(0, )
+21/07/24 11:05:52:335 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogNivel)
+21/07/24 11:05:52:335 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 11:05:52:335 - LIB_ConfigGravarValor(Principal, LogNivel, 4)
+21/07/24 11:05:52:335 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogNivel)
+21/07/24 11:05:52:335 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 11:05:52:336 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,LogNivel,4)
+21/07/24 11:05:52:336 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 11:05:52:336 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 11:05:52:336 - Travar
+21/07/24 11:05:52:337 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 11:05:52:337 - Destravar
+21/07/24 11:05:52:337 -    SetRetorno(0, )
+21/07/24 11:05:52:337 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogPath)
+21/07/24 11:05:52:337 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 11:05:52:338 - LIB_ConfigGravarValor(Principal, LogPath, c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\Log)
+21/07/24 11:05:52:338 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogPath)
+21/07/24 11:05:52:338 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 11:05:52:338 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,LogPath,c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\Log)
+21/07/24 11:05:52:338 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 11:05:52:338 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 11:05:52:339 - Travar
+21/07/24 11:05:52:339 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 11:05:52:339 - Destravar
+21/07/24 11:05:52:339 -    SetRetorno(0, )
+21/07/24 15:50:38:827 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 15:50:38:827 - Travar
+21/07/24 15:50:38:828 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 15:50:38:828 - Destravar
+21/07/24 15:50:38:828 - TLibPosPrinterConfig.Ler - Feito
+21/07/24 15:50:38:828 - Destravar
+21/07/24 15:50:38:829 - TACBrLibPosPrinter.Inicializar - Feito
+21/07/24 15:50:38:829 - LIB_Inicializar( c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI,  )
+21/07/24 15:50:38:829 -    ACBrLibPosPrinter - 1.0.0.209
+21/07/24 15:50:38:829 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,TipoResposta)
+21/07/24 15:50:38:830 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 15:50:38:830 - LIB_ConfigGravarValor(Principal, TipoResposta, 2)
+21/07/24 15:50:38:830 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,TipoResposta)
+21/07/24 15:50:38:830 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 15:50:38:830 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,TipoResposta,2)
+21/07/24 15:50:38:831 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 15:50:38:831 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 15:50:38:831 - Travar
+21/07/24 15:50:38:831 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 15:50:38:831 - Destravar
+21/07/24 15:50:38:831 -    SetRetorno(0, )
+21/07/24 15:50:38:831 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogNivel)
+21/07/24 15:50:38:833 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 15:50:38:833 - LIB_ConfigGravarValor(Principal, LogNivel, 4)
+21/07/24 15:50:38:833 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogNivel)
+21/07/24 15:50:38:833 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 15:50:38:833 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,LogNivel,4)
+21/07/24 15:50:38:834 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 15:50:38:834 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 15:50:38:834 - Travar
+21/07/24 15:50:38:834 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 15:50:38:834 - Destravar
+21/07/24 15:50:38:835 -    SetRetorno(0, )
+21/07/24 15:50:38:835 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogPath)
+21/07/24 15:50:38:835 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 15:50:38:835 - LIB_ConfigGravarValor(Principal, LogPath, c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\Log)
+21/07/24 15:50:38:835 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogPath)
+21/07/24 15:50:38:835 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 15:50:38:836 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,LogPath,c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\Log)
+21/07/24 15:50:38:836 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 15:50:38:837 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 15:50:38:837 - Travar
+21/07/24 15:50:38:837 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 15:50:38:837 - Destravar
+21/07/24 15:50:38:837 -    SetRetorno(0, )
+21/07/24 15:50:43:918 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 15:50:43:918 - Travar
+21/07/24 15:50:43:919 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 15:50:43:919 - Destravar
+21/07/24 15:50:43:919 - TLibPosPrinterConfig.Ler - Feito
+21/07/24 15:50:43:919 - Destravar
+21/07/24 15:50:43:920 - TACBrLibPosPrinter.Inicializar - Feito
+21/07/24 15:50:43:920 - LIB_Inicializar( c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI,  )
+21/07/24 15:50:43:920 -    ACBrLibPosPrinter - 1.0.0.209
+21/07/24 15:50:43:920 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,TipoResposta)
+21/07/24 15:50:43:920 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 15:50:43:921 - LIB_ConfigGravarValor(Principal, TipoResposta, 2)
+21/07/24 15:50:43:921 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,TipoResposta)
+21/07/24 15:50:43:921 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 15:50:43:921 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,TipoResposta,2)
+21/07/24 15:50:43:921 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 15:50:43:921 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 15:50:43:921 - Travar
+21/07/24 15:50:43:923 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 15:50:43:923 - Destravar
+21/07/24 15:50:43:923 -    SetRetorno(0, )
+21/07/24 15:50:43:923 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogNivel)
+21/07/24 15:50:43:923 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 15:50:43:924 - LIB_ConfigGravarValor(Principal, LogNivel, 4)
+21/07/24 15:50:43:924 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogNivel)
+21/07/24 15:50:43:924 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 15:50:43:924 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,LogNivel,4)
+21/07/24 15:50:43:924 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 15:50:43:924 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 15:50:43:925 - Travar
+21/07/24 15:50:43:925 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 15:50:43:925 - Destravar
+21/07/24 15:50:43:925 -    SetRetorno(0, )
+21/07/24 15:50:43:925 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogPath)
+21/07/24 15:50:43:926 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 15:50:43:926 - LIB_ConfigGravarValor(Principal, LogPath, c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\Log)
+21/07/24 15:50:43:926 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogPath)
+21/07/24 15:50:43:926 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 15:50:43:927 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,LogPath,c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\Log)
+21/07/24 15:50:43:927 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 15:50:43:927 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 15:50:43:927 - Travar
+21/07/24 15:50:43:928 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 15:50:43:928 - Destravar
+21/07/24 15:50:43:928 -    SetRetorno(0, )
+21/07/24 15:56:38:058 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 15:56:38:058 - Travar
+21/07/24 15:56:38:058 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 15:56:38:058 - Destravar
+21/07/24 15:56:38:059 - TLibPosPrinterConfig.Ler - Feito
+21/07/24 15:56:38:059 - Destravar
+21/07/24 15:56:38:059 - TACBrLibPosPrinter.Inicializar - Feito
+21/07/24 15:56:38:059 - LIB_Inicializar( c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI,  )
+21/07/24 15:56:38:059 -    ACBrLibPosPrinter - 1.0.0.209
+21/07/24 15:56:38:060 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,TipoResposta)
+21/07/24 15:56:38:060 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 15:56:38:060 - LIB_ConfigGravarValor(Principal, TipoResposta, 2)
+21/07/24 15:56:38:060 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,TipoResposta)
+21/07/24 15:56:38:060 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 15:56:38:060 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,TipoResposta,2)
+21/07/24 15:56:38:061 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 15:56:38:061 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 15:56:38:061 - Travar
+21/07/24 15:56:38:061 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 15:56:38:061 - Destravar
+21/07/24 15:56:38:061 -    SetRetorno(0, )
+21/07/24 15:56:38:061 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogNivel)
+21/07/24 15:56:38:061 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 15:56:38:063 - LIB_ConfigGravarValor(Principal, LogNivel, 4)
+21/07/24 15:56:38:063 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogNivel)
+21/07/24 15:56:38:063 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 15:56:38:063 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,LogNivel,4)
+21/07/24 15:56:38:063 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 15:56:38:064 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 15:56:38:065 - Travar
+21/07/24 15:56:38:065 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 15:56:38:065 - Destravar
+21/07/24 15:56:38:065 -    SetRetorno(0, )
+21/07/24 15:56:38:065 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogPath)
+21/07/24 15:56:38:066 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 15:56:38:066 - LIB_ConfigGravarValor(Principal, LogPath, c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\Log)
+21/07/24 15:56:38:066 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogPath)
+21/07/24 15:56:38:067 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 15:56:38:067 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,LogPath,c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\Log)
+21/07/24 15:56:38:067 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 15:56:38:067 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 15:56:38:067 - Travar
+21/07/24 15:56:38:068 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 15:56:38:068 - Destravar
+21/07/24 15:56:38:068 -    SetRetorno(0, )
+21/07/24 15:57:30:693 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 15:57:30:694 - Travar
+21/07/24 15:57:30:694 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 15:57:30:694 - Destravar
+21/07/24 15:57:30:694 - TLibPosPrinterConfig.Ler - Feito
+21/07/24 15:57:30:694 - Destravar
+21/07/24 15:57:30:695 - TACBrLibPosPrinter.Inicializar - Feito
+21/07/24 15:57:30:695 - LIB_Inicializar( c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI,  )
+21/07/24 15:57:30:695 -    ACBrLibPosPrinter - 1.0.0.209
+21/07/24 15:57:30:695 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,TipoResposta)
+21/07/24 15:57:30:695 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 15:57:30:695 - LIB_ConfigGravarValor(Principal, TipoResposta, 2)
+21/07/24 15:57:30:696 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,TipoResposta)
+21/07/24 15:57:30:696 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 15:57:30:696 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,TipoResposta,2)
+21/07/24 15:57:30:696 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 15:57:30:697 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 15:57:30:697 - Travar
+21/07/24 15:57:30:697 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 15:57:30:697 - Destravar
+21/07/24 15:57:30:697 -    SetRetorno(0, )
+21/07/24 15:57:30:698 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogNivel)
+21/07/24 15:57:30:698 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 15:57:30:698 - LIB_ConfigGravarValor(Principal, LogNivel, 4)
+21/07/24 15:57:30:698 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogNivel)
+21/07/24 15:57:30:698 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 15:57:30:699 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,LogNivel,4)
+21/07/24 15:57:30:699 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 15:57:30:699 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 15:57:30:699 - Travar
+21/07/24 15:57:30:700 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 15:57:30:700 - Destravar
+21/07/24 15:57:30:700 -    SetRetorno(0, )
+21/07/24 15:57:30:700 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogPath)
+21/07/24 15:57:30:700 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 15:57:30:701 - LIB_ConfigGravarValor(Principal, LogPath, c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\Log)
+21/07/24 15:57:30:701 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogPath)
+21/07/24 15:57:30:701 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 15:57:30:701 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,LogPath,c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\Log)
+21/07/24 15:57:30:701 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 15:57:30:702 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 15:57:30:702 - Travar
+21/07/24 15:57:30:702 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 15:57:30:702 - Destravar
+21/07/24 15:57:30:702 -    SetRetorno(0, )
+21/07/24 16:02:57:971 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:02:57:971 - Travar
+21/07/24 16:02:57:972 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:02:57:972 - Destravar
+21/07/24 16:02:57:972 - TLibPosPrinterConfig.Ler - Feito
+21/07/24 16:02:57:972 - Destravar
+21/07/24 16:02:57:972 - TACBrLibPosPrinter.Inicializar - Feito
+21/07/24 16:02:57:973 - LIB_Inicializar( c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI,  )
+21/07/24 16:02:57:973 -    ACBrLibPosPrinter - 1.0.0.209
+21/07/24 16:02:57:973 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,TipoResposta)
+21/07/24 16:02:57:973 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:02:57:973 - LIB_ConfigGravarValor(Principal, TipoResposta, 2)
+21/07/24 16:02:57:973 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,TipoResposta)
+21/07/24 16:02:57:973 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:02:57:973 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,TipoResposta,2)
+21/07/24 16:02:57:974 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 16:02:57:974 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:02:57:974 - Travar
+21/07/24 16:02:57:974 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:02:57:974 - Destravar
+21/07/24 16:02:57:974 -    SetRetorno(0, )
+21/07/24 16:02:57:975 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogNivel)
+21/07/24 16:02:57:975 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:02:57:975 - LIB_ConfigGravarValor(Principal, LogNivel, 4)
+21/07/24 16:02:57:975 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogNivel)
+21/07/24 16:02:57:975 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:02:57:976 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,LogNivel,4)
+21/07/24 16:02:57:976 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 16:02:57:976 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:02:57:976 - Travar
+21/07/24 16:02:57:976 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:02:57:977 - Destravar
+21/07/24 16:02:57:977 -    SetRetorno(0, )
+21/07/24 16:02:57:977 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogPath)
+21/07/24 16:02:57:977 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:02:57:977 - LIB_ConfigGravarValor(Principal, LogPath, c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\Log)
+21/07/24 16:02:57:978 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogPath)
+21/07/24 16:02:57:978 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:02:57:978 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,LogPath,c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\Log)
+21/07/24 16:02:57:978 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 16:02:57:978 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:02:57:979 - Travar
+21/07/24 16:02:57:979 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:02:57:979 - Destravar
+21/07/24 16:02:57:979 -    SetRetorno(0, )
+21/07/24 16:07:08:539 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:07:08:539 - Travar
+21/07/24 16:07:08:539 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:07:08:539 - Destravar
+21/07/24 16:07:08:540 - TLibPosPrinterConfig.Ler - Feito
+21/07/24 16:07:08:540 - Destravar
+21/07/24 16:07:08:540 - TACBrLibPosPrinter.Inicializar - Feito
+21/07/24 16:07:08:540 - LIB_Inicializar( c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI,  )
+21/07/24 16:07:08:540 -    ACBrLibPosPrinter - 1.0.0.209
+21/07/24 16:07:08:541 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,TipoResposta)
+21/07/24 16:07:08:541 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:07:08:541 - LIB_ConfigGravarValor(Principal, TipoResposta, 2)
+21/07/24 16:07:08:541 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,TipoResposta)
+21/07/24 16:07:08:542 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:07:08:542 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,TipoResposta,2)
+21/07/24 16:07:08:542 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 16:07:08:542 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:07:08:542 - Travar
+21/07/24 16:07:08:543 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:07:08:543 - Destravar
+21/07/24 16:07:08:543 -    SetRetorno(0, )
+21/07/24 16:07:08:543 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogNivel)
+21/07/24 16:07:08:543 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:07:08:543 - LIB_ConfigGravarValor(Principal, LogNivel, 4)
+21/07/24 16:07:08:543 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogNivel)
+21/07/24 16:07:08:544 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:07:08:544 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,LogNivel,4)
+21/07/24 16:07:08:544 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 16:07:08:544 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:07:08:544 - Travar
+21/07/24 16:07:08:545 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:07:08:545 - Destravar
+21/07/24 16:07:08:545 -    SetRetorno(0, )
+21/07/24 16:07:08:545 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogPath)
+21/07/24 16:07:08:546 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:07:08:546 - LIB_ConfigGravarValor(Principal, LogPath, c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\Log)
+21/07/24 16:07:08:546 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogPath)
+21/07/24 16:07:08:546 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:07:08:546 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,LogPath,c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\Log)
+21/07/24 16:07:08:547 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 16:07:08:547 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:07:08:547 - Travar
+21/07/24 16:07:08:547 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:07:08:548 - Destravar
+21/07/24 16:07:08:548 -    SetRetorno(0, )
+21/07/24 16:08:23:505 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:08:23:505 - Travar
+21/07/24 16:08:23:506 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:08:23:506 - Destravar
+21/07/24 16:08:23:506 - TLibPosPrinterConfig.Ler - Feito
+21/07/24 16:08:23:506 - Destravar
+21/07/24 16:08:23:506 - TACBrLibPosPrinter.Inicializar - Feito
+21/07/24 16:08:23:507 - LIB_Inicializar( c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI,  )
+21/07/24 16:08:23:507 -    ACBrLibPosPrinter - 1.0.0.209
+21/07/24 16:08:23:507 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,TipoResposta)
+21/07/24 16:08:23:507 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:08:23:507 - LIB_ConfigGravarValor(Principal, TipoResposta, 2)
+21/07/24 16:08:23:508 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,TipoResposta)
+21/07/24 16:08:23:508 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:08:23:508 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,TipoResposta,2)
+21/07/24 16:08:23:508 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 16:08:23:509 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:08:23:509 - Travar
+21/07/24 16:08:23:509 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:08:23:509 - Destravar
+21/07/24 16:08:23:510 -    SetRetorno(0, )
+21/07/24 16:08:23:510 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogNivel)
+21/07/24 16:08:23:510 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:08:23:510 - LIB_ConfigGravarValor(Principal, LogNivel, 4)
+21/07/24 16:08:23:510 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogNivel)
+21/07/24 16:08:23:511 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:08:23:511 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,LogNivel,4)
+21/07/24 16:08:23:511 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 16:08:23:511 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:08:23:512 - Travar
+21/07/24 16:08:23:512 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:08:23:512 - Destravar
+21/07/24 16:08:23:512 -    SetRetorno(0, )
+21/07/24 16:08:23:512 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogPath)
+21/07/24 16:08:23:513 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:08:23:513 - LIB_ConfigGravarValor(Principal, LogPath, c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\Log)
+21/07/24 16:08:23:513 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogPath)
+21/07/24 16:08:23:513 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:08:23:514 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,LogPath,c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\Log)
+21/07/24 16:08:23:514 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 16:08:23:514 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:08:23:514 - Travar
+21/07/24 16:08:23:515 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:08:23:515 - Destravar
+21/07/24 16:08:23:515 -    SetRetorno(0, )
+21/07/24 16:09:20:544 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:09:20:544 - Travar
+21/07/24 16:09:20:545 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:09:20:545 - Destravar
+21/07/24 16:09:20:545 - TLibPosPrinterConfig.Ler - Feito
+21/07/24 16:09:20:545 - Destravar
+21/07/24 16:09:20:546 - TACBrLibPosPrinter.Inicializar - Feito
+21/07/24 16:09:20:546 - LIB_Inicializar( c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI,  )
+21/07/24 16:09:20:546 -    ACBrLibPosPrinter - 1.0.0.209
+21/07/24 16:09:20:546 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,TipoResposta)
+21/07/24 16:09:20:546 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:09:20:547 - LIB_ConfigGravarValor(Principal, TipoResposta, 2)
+21/07/24 16:09:20:547 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,TipoResposta)
+21/07/24 16:09:20:547 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:09:20:547 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,TipoResposta,2)
+21/07/24 16:09:20:547 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 16:09:20:549 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:09:20:549 - Travar
+21/07/24 16:09:20:549 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:09:20:549 - Destravar
+21/07/24 16:09:20:549 -    SetRetorno(0, )
+21/07/24 16:09:20:549 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogNivel)
+21/07/24 16:09:20:550 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:09:20:550 - LIB_ConfigGravarValor(Principal, LogNivel, 4)
+21/07/24 16:09:20:550 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogNivel)
+21/07/24 16:09:20:550 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:09:20:550 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,LogNivel,4)
+21/07/24 16:09:20:551 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 16:09:20:551 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:09:20:551 - Travar
+21/07/24 16:09:20:551 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:09:20:551 - Destravar
+21/07/24 16:09:20:552 -    SetRetorno(0, )
+21/07/24 16:09:20:552 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogPath)
+21/07/24 16:09:20:552 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:09:20:553 - LIB_ConfigGravarValor(Principal, LogPath, c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\Log)
+21/07/24 16:09:20:553 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogPath)
+21/07/24 16:09:20:553 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:09:20:554 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,LogPath,c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\Log)
+21/07/24 16:09:20:554 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 16:09:20:554 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:09:20:554 - Travar
+21/07/24 16:09:20:555 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:09:20:555 - Destravar
+21/07/24 16:09:20:556 -    SetRetorno(0, )
+21/07/24 16:11:06:578 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:11:06:578 - Travar
+21/07/24 16:11:06:578 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:11:06:579 - Destravar
+21/07/24 16:11:06:579 - TLibPosPrinterConfig.Ler - Feito
+21/07/24 16:11:06:579 - Destravar
+21/07/24 16:11:06:579 - TACBrLibPosPrinter.Inicializar - Feito
+21/07/24 16:11:06:579 - LIB_Inicializar( c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI,  )
+21/07/24 16:11:06:580 -    ACBrLibPosPrinter - 1.0.0.209
+21/07/24 16:11:06:580 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,TipoResposta)
+21/07/24 16:11:06:580 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:11:06:580 - LIB_ConfigGravarValor(Principal, TipoResposta, 2)
+21/07/24 16:11:06:581 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,TipoResposta)
+21/07/24 16:11:06:581 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:11:06:581 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,TipoResposta,2)
+21/07/24 16:11:06:581 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 16:11:06:581 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:11:06:582 - Travar
+21/07/24 16:11:06:582 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:11:06:582 - Destravar
+21/07/24 16:11:06:582 -    SetRetorno(0, )
+21/07/24 16:11:06:582 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogNivel)
+21/07/24 16:11:06:584 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:11:06:584 - LIB_ConfigGravarValor(Principal, LogNivel, 4)
+21/07/24 16:11:06:584 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogNivel)
+21/07/24 16:11:06:585 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:11:06:585 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,LogNivel,4)
+21/07/24 16:11:06:585 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 16:11:06:585 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:11:06:585 - Travar
+21/07/24 16:11:06:586 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:11:06:586 - Destravar
+21/07/24 16:11:06:586 -    SetRetorno(0, )
+21/07/24 16:11:06:586 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogPath)
+21/07/24 16:11:06:586 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:11:06:587 - LIB_ConfigGravarValor(Principal, LogPath, c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\Log)
+21/07/24 16:11:06:587 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogPath)
+21/07/24 16:11:06:587 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:11:06:587 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,LogPath,c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\Log)
+21/07/24 16:11:06:587 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 16:11:06:588 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:11:06:588 - Travar
+21/07/24 16:11:06:588 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:11:06:588 - Destravar
+21/07/24 16:11:06:589 -    SetRetorno(0, )
+21/07/24 16:11:36:364 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:11:36:364 - Travar
+21/07/24 16:11:36:364 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:11:36:364 - Destravar
+21/07/24 16:11:36:365 - TLibPosPrinterConfig.Ler - Feito
+21/07/24 16:11:36:365 - Destravar
+21/07/24 16:11:36:365 - TACBrLibPosPrinter.Inicializar - Feito
+21/07/24 16:11:36:365 - LIB_Inicializar( c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI,  )
+21/07/24 16:11:36:366 -    ACBrLibPosPrinter - 1.0.0.209
+21/07/24 16:11:36:366 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,TipoResposta)
+21/07/24 16:11:36:366 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:11:36:367 - LIB_ConfigGravarValor(Principal, TipoResposta, 2)
+21/07/24 16:11:36:367 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,TipoResposta)
+21/07/24 16:11:36:367 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:11:36:368 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,TipoResposta,2)
+21/07/24 16:11:36:368 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 16:11:36:368 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:11:36:368 - Travar
+21/07/24 16:11:36:369 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:11:36:369 - Destravar
+21/07/24 16:11:36:369 -    SetRetorno(0, )
+21/07/24 16:11:36:370 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogNivel)
+21/07/24 16:11:36:370 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:11:36:370 - LIB_ConfigGravarValor(Principal, LogNivel, 4)
+21/07/24 16:11:36:371 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogNivel)
+21/07/24 16:11:36:371 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:11:36:371 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,LogNivel,4)
+21/07/24 16:11:36:371 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 16:11:36:371 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:11:36:371 - Travar
+21/07/24 16:11:36:372 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:11:36:372 - Destravar
+21/07/24 16:11:36:372 -    SetRetorno(0, )
+21/07/24 16:11:36:373 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogPath)
+21/07/24 16:11:36:373 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:11:36:373 - LIB_ConfigGravarValor(Principal, LogPath, c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\Log)
+21/07/24 16:11:36:373 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogPath)
+21/07/24 16:11:36:373 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:11:36:375 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,LogPath,c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\Log)
+21/07/24 16:11:36:375 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 16:11:36:375 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:11:36:375 - Travar
+21/07/24 16:11:36:376 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:11:36:376 - Destravar
+21/07/24 16:11:36:376 -    SetRetorno(0, )
+21/07/24 16:14:21:031 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:14:21:032 - Travar
+21/07/24 16:14:21:033 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:14:21:033 - Destravar
+21/07/24 16:14:21:033 - TLibPosPrinterConfig.Ler - Feito
+21/07/24 16:14:21:033 - Destravar
+21/07/24 16:14:21:033 - TACBrLibPosPrinter.Inicializar - Feito
+21/07/24 16:14:21:033 - LIB_Inicializar( c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI,  )
+21/07/24 16:14:21:033 -    ACBrLibPosPrinter - 1.0.0.209
+21/07/24 16:14:21:034 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,TipoResposta)
+21/07/24 16:14:21:034 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:14:21:035 - LIB_ConfigGravarValor(Principal, TipoResposta, 2)
+21/07/24 16:14:21:035 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,TipoResposta)
+21/07/24 16:14:21:035 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:14:21:035 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,TipoResposta,2)
+21/07/24 16:14:21:035 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 16:14:21:035 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:14:21:036 - Travar
+21/07/24 16:14:21:036 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:14:21:036 - Destravar
+21/07/24 16:14:21:036 -    SetRetorno(0, )
+21/07/24 16:14:21:036 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogNivel)
+21/07/24 16:14:21:037 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:14:21:037 - LIB_ConfigGravarValor(Principal, LogNivel, 4)
+21/07/24 16:14:21:037 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogNivel)
+21/07/24 16:14:21:037 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:14:21:037 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,LogNivel,4)
+21/07/24 16:14:21:038 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 16:14:21:038 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:14:21:038 - Travar
+21/07/24 16:14:21:038 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:14:21:038 - Destravar
+21/07/24 16:14:21:039 -    SetRetorno(0, )
+21/07/24 16:14:21:039 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogPath)
+21/07/24 16:14:21:039 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:14:21:039 - LIB_ConfigGravarValor(Principal, LogPath, c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\Log)
+21/07/24 16:14:21:039 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogPath)
+21/07/24 16:14:21:040 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:14:21:040 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,LogPath,c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\Log)
+21/07/24 16:14:21:040 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 16:14:21:040 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:14:21:040 - Travar
+21/07/24 16:14:21:041 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:14:21:041 - Destravar
+21/07/24 16:14:21:041 -    SetRetorno(0, )
+21/07/24 16:14:38:415 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:14:38:415 - Travar
+21/07/24 16:14:38:416 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:14:38:416 - Destravar
+21/07/24 16:14:38:416 - TLibPosPrinterConfig.Ler - Feito
+21/07/24 16:14:38:416 - Destravar
+21/07/24 16:14:38:417 - TACBrLibPosPrinter.Inicializar - Feito
+21/07/24 16:14:38:417 - LIB_Inicializar( c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI,  )
+21/07/24 16:14:38:417 -    ACBrLibPosPrinter - 1.0.0.209
+21/07/24 16:14:38:417 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,TipoResposta)
+21/07/24 16:14:38:417 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:14:38:418 - LIB_ConfigGravarValor(Principal, TipoResposta, 2)
+21/07/24 16:14:38:418 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,TipoResposta)
+21/07/24 16:14:38:418 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:14:38:419 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,TipoResposta,2)
+21/07/24 16:14:38:419 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 16:14:38:419 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:14:38:419 - Travar
+21/07/24 16:14:38:419 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:14:38:420 - Destravar
+21/07/24 16:14:38:420 -    SetRetorno(0, )
+21/07/24 16:14:38:420 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogNivel)
+21/07/24 16:14:38:420 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:14:38:420 - LIB_ConfigGravarValor(Principal, LogNivel, 4)
+21/07/24 16:14:38:420 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogNivel)
+21/07/24 16:14:38:420 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:14:38:422 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,LogNivel,4)
+21/07/24 16:14:38:422 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 16:14:38:422 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:14:38:422 - Travar
+21/07/24 16:14:38:422 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:14:38:423 - Destravar
+21/07/24 16:14:38:423 -    SetRetorno(0, )
+21/07/24 16:14:38:423 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogPath)
+21/07/24 16:14:38:423 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:14:38:423 - LIB_ConfigGravarValor(Principal, LogPath, c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\Log)
+21/07/24 16:14:38:423 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogPath)
+21/07/24 16:14:38:423 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:14:38:425 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,LogPath,c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\Log)
+21/07/24 16:14:38:425 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 16:14:38:425 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:14:38:425 - Travar
+21/07/24 16:14:38:425 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:14:38:426 - Destravar
+21/07/24 16:14:38:426 -    SetRetorno(0, )
+21/07/24 16:18:30:114 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:18:30:115 - Travar
+21/07/24 16:18:30:116 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:18:30:116 - Destravar
+21/07/24 16:18:30:116 - TLibPosPrinterConfig.Ler - Feito
+21/07/24 16:18:30:116 - Destravar
+21/07/24 16:18:30:116 - TACBrLibPosPrinter.Inicializar - Feito
+21/07/24 16:18:30:116 - LIB_Inicializar( c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI,  )
+21/07/24 16:18:30:117 -    ACBrLibPosPrinter - 1.0.0.209
+21/07/24 16:18:30:117 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,TipoResposta)
+21/07/24 16:18:30:117 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:18:30:117 - LIB_ConfigGravarValor(Principal, TipoResposta, 2)
+21/07/24 16:18:30:118 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,TipoResposta)
+21/07/24 16:18:30:118 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:18:30:118 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,TipoResposta,2)
+21/07/24 16:18:30:118 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 16:18:30:118 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:18:30:118 - Travar
+21/07/24 16:18:30:119 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:18:30:119 - Destravar
+21/07/24 16:18:30:119 -    SetRetorno(0, )
+21/07/24 16:18:30:120 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogNivel)
+21/07/24 16:18:30:120 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:18:30:120 - LIB_ConfigGravarValor(Principal, LogNivel, 4)
+21/07/24 16:18:30:121 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogNivel)
+21/07/24 16:18:30:121 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:18:30:121 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,LogNivel,4)
+21/07/24 16:18:30:121 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 16:18:30:121 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:18:30:121 - Travar
+21/07/24 16:18:30:122 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:18:30:122 - Destravar
+21/07/24 16:18:30:122 -    SetRetorno(0, )
+21/07/24 16:18:30:122 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogPath)
+21/07/24 16:18:30:123 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:18:30:123 - LIB_ConfigGravarValor(Principal, LogPath, c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\Log)
+21/07/24 16:18:30:123 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogPath)
+21/07/24 16:18:30:123 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:18:30:123 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,LogPath,c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\Log)
+21/07/24 16:18:30:124 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 16:18:30:124 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:18:30:124 - Travar
+21/07/24 16:18:30:124 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:18:30:125 - Destravar
+21/07/24 16:18:30:125 -    SetRetorno(0, )
+21/07/24 16:19:32:775 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:19:32:776 - Travar
+21/07/24 16:19:32:776 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:19:32:776 - Destravar
+21/07/24 16:19:32:777 - TLibPosPrinterConfig.Ler - Feito
+21/07/24 16:19:32:777 - Destravar
+21/07/24 16:19:32:777 - TACBrLibPosPrinter.Inicializar - Feito
+21/07/24 16:19:32:777 - LIB_Inicializar( c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI,  )
+21/07/24 16:19:32:778 -    ACBrLibPosPrinter - 1.0.0.209
+21/07/24 16:19:32:778 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,TipoResposta)
+21/07/24 16:19:32:778 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:19:32:778 - LIB_ConfigGravarValor(Principal, TipoResposta, 2)
+21/07/24 16:19:32:779 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,TipoResposta)
+21/07/24 16:19:32:779 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:19:32:779 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,TipoResposta,2)
+21/07/24 16:19:32:779 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 16:19:32:779 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:19:32:779 - Travar
+21/07/24 16:19:32:780 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:19:32:780 - Destravar
+21/07/24 16:19:32:780 -    SetRetorno(0, )
+21/07/24 16:19:32:781 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogNivel)
+21/07/24 16:19:32:781 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:19:32:781 - LIB_ConfigGravarValor(Principal, LogNivel, 4)
+21/07/24 16:19:32:781 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogNivel)
+21/07/24 16:19:32:781 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:19:32:781 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,LogNivel,4)
+21/07/24 16:19:32:781 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 16:19:32:781 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:19:32:782 - Travar
+21/07/24 16:19:32:782 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:19:32:782 - Destravar
+21/07/24 16:19:32:782 -    SetRetorno(0, )
+21/07/24 16:19:32:782 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogPath)
+21/07/24 16:19:32:783 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:19:32:783 - LIB_ConfigGravarValor(Principal, LogPath, c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\Log)
+21/07/24 16:19:32:783 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogPath)
+21/07/24 16:19:32:783 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:19:32:783 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,LogPath,c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\Log)
+21/07/24 16:19:32:783 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 16:19:32:784 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:19:32:784 - Travar
+21/07/24 16:19:32:784 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:19:32:784 - Destravar
+21/07/24 16:19:32:785 -    SetRetorno(0, )
+21/07/24 16:20:14:585 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:20:14:585 - Travar
+21/07/24 16:20:14:585 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:20:14:586 - Destravar
+21/07/24 16:20:14:586 - TLibPosPrinterConfig.Ler - Feito
+21/07/24 16:20:14:586 - Destravar
+21/07/24 16:20:14:586 - TACBrLibPosPrinter.Inicializar - Feito
+21/07/24 16:20:14:587 - LIB_Inicializar( c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI,  )
+21/07/24 16:20:14:587 -    ACBrLibPosPrinter - 1.0.0.209
+21/07/24 16:20:14:587 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,TipoResposta)
+21/07/24 16:20:14:588 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:20:14:588 - LIB_ConfigGravarValor(Principal, TipoResposta, 2)
+21/07/24 16:20:14:588 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,TipoResposta)
+21/07/24 16:20:14:589 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:20:14:589 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,TipoResposta,2)
+21/07/24 16:20:14:589 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 16:20:14:589 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:20:14:590 - Travar
+21/07/24 16:20:14:590 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:20:14:590 - Destravar
+21/07/24 16:20:14:590 -    SetRetorno(0, )
+21/07/24 16:20:14:590 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogNivel)
+21/07/24 16:20:14:592 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:20:14:592 - LIB_ConfigGravarValor(Principal, LogNivel, 4)
+21/07/24 16:20:14:592 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogNivel)
+21/07/24 16:20:14:592 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:20:14:593 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,LogNivel,4)
+21/07/24 16:20:14:593 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 16:20:14:593 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:20:14:593 - Travar
+21/07/24 16:20:14:593 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:20:14:594 - Destravar
+21/07/24 16:20:14:594 -    SetRetorno(0, )
+21/07/24 16:20:14:594 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogPath)
+21/07/24 16:20:14:594 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:20:14:595 - LIB_ConfigGravarValor(Principal, LogPath, c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\Log)
+21/07/24 16:20:14:595 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogPath)
+21/07/24 16:20:14:595 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:20:14:595 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,LogPath,c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\Log)
+21/07/24 16:20:14:596 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 16:20:14:596 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:20:14:596 - Travar
+21/07/24 16:20:14:597 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:20:14:597 - Destravar
+21/07/24 16:20:14:597 -    SetRetorno(0, )
+21/07/24 16:20:53:112 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:20:53:112 - Travar
+21/07/24 16:20:53:113 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:20:53:113 - Destravar
+21/07/24 16:20:53:113 - TLibPosPrinterConfig.Ler - Feito
+21/07/24 16:20:53:113 - Destravar
+21/07/24 16:20:53:113 - TACBrLibPosPrinter.Inicializar - Feito
+21/07/24 16:20:53:113 - LIB_Inicializar( c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI,  )
+21/07/24 16:20:53:113 -    ACBrLibPosPrinter - 1.0.0.209
+21/07/24 16:20:53:114 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,TipoResposta)
+21/07/24 16:20:53:114 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:20:53:114 - LIB_ConfigGravarValor(Principal, TipoResposta, 2)
+21/07/24 16:20:53:114 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,TipoResposta)
+21/07/24 16:20:53:114 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:20:53:115 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,TipoResposta,2)
+21/07/24 16:20:53:115 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 16:20:53:115 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:20:53:115 - Travar
+21/07/24 16:20:53:115 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:20:53:116 - Destravar
+21/07/24 16:20:53:116 -    SetRetorno(0, )
+21/07/24 16:20:53:116 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogNivel)
+21/07/24 16:20:53:116 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:20:53:117 - LIB_ConfigGravarValor(Principal, LogNivel, 4)
+21/07/24 16:20:53:117 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogNivel)
+21/07/24 16:20:53:117 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:20:53:117 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,LogNivel,4)
+21/07/24 16:20:53:118 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 16:20:53:118 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:20:53:118 - Travar
+21/07/24 16:20:53:119 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:20:53:119 - Destravar
+21/07/24 16:20:53:119 -    SetRetorno(0, )
+21/07/24 16:20:53:120 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogPath)
+21/07/24 16:20:53:120 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:20:53:120 - LIB_ConfigGravarValor(Principal, LogPath, c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\Log)
+21/07/24 16:20:53:120 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogPath)
+21/07/24 16:20:53:121 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:20:53:121 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,LogPath,c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\Log)
+21/07/24 16:20:53:121 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 16:20:53:121 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:20:53:121 - Travar
+21/07/24 16:20:53:122 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:20:53:122 - Destravar
+21/07/24 16:20:53:122 -    SetRetorno(0, )
+21/07/24 16:24:40:667 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:24:40:667 - Travar
+21/07/24 16:24:40:668 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:24:40:668 - Destravar
+21/07/24 16:24:40:668 - TLibPosPrinterConfig.Ler - Feito
+21/07/24 16:24:40:668 - Destravar
+21/07/24 16:24:40:668 - TACBrLibPosPrinter.Inicializar - Feito
+21/07/24 16:24:40:669 - LIB_Inicializar( c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI,  )
+21/07/24 16:24:40:669 -    ACBrLibPosPrinter - 1.0.0.209
+21/07/24 16:24:40:669 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,TipoResposta)
+21/07/24 16:24:40:669 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:24:40:670 - LIB_ConfigGravarValor(Principal, TipoResposta, 2)
+21/07/24 16:24:40:670 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,TipoResposta)
+21/07/24 16:24:40:670 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:24:40:671 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,TipoResposta,2)
+21/07/24 16:24:40:671 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 16:24:40:671 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:24:40:671 - Travar
+21/07/24 16:24:40:671 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:24:40:672 - Destravar
+21/07/24 16:24:40:672 -    SetRetorno(0, )
+21/07/24 16:24:40:672 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogNivel)
+21/07/24 16:24:40:672 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:24:40:672 - LIB_ConfigGravarValor(Principal, LogNivel, 4)
+21/07/24 16:24:40:673 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogNivel)
+21/07/24 16:24:40:673 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:24:40:673 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,LogNivel,4)
+21/07/24 16:24:40:673 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 16:24:40:674 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:24:40:674 - Travar
+21/07/24 16:24:40:674 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:24:40:674 - Destravar
+21/07/24 16:24:40:674 -    SetRetorno(0, )
+21/07/24 16:24:40:675 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogPath)
+21/07/24 16:24:40:675 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:24:40:675 - LIB_ConfigGravarValor(Principal, LogPath, c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\Log)
+21/07/24 16:24:40:675 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogPath)
+21/07/24 16:24:40:676 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:24:40:676 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,LogPath,c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\Log)
+21/07/24 16:24:40:677 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 16:24:40:677 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:24:40:677 - Travar
+21/07/24 16:24:40:678 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:24:40:678 - Destravar
+21/07/24 16:24:40:678 -    SetRetorno(0, )
+21/07/24 16:27:46:470 - TLibPosPrinterConfig.AplicarConfiguracoes: C:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLIB.INI
+21/07/24 16:27:46:472 - Travar
+21/07/24 16:27:46:472 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:27:46:472 - Destravar
+21/07/24 16:27:46:473 - TLibPosPrinterConfig.Ler - Feito
+21/07/24 16:27:46:473 - Destravar
+21/07/24 16:27:46:473 - TACBrLibPosPrinter.Inicializar - Feito
+21/07/24 16:27:46:473 - LIB_Inicializar( C:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLIB.INI,  )
+21/07/24 16:27:46:474 -    ACBrLibPosPrinter - 1.0.0.209
+21/07/24 16:27:46:474 - POS_Ativar
+21/07/24 16:27:46:474 - Travar
+21/07/24 16:27:46:479 -    SetRetorno(0, )
+21/07/24 16:27:46:479 - Destravar
+21/07/24 16:27:46:479 - POS_Inicializar
+21/07/24 16:27:46:479 - Travar
+21/07/24 16:27:46:480 -    SetRetorno(0, )
+21/07/24 16:27:46:480 - Destravar
+21/07/24 16:27:46:480 - POS_Imprimir(</ce><qrcode>www.google.com</qrcode>[LF]OL[195][129] ESTA [195][137] UMA MENSAGEM DE TESTE[LF][LF][LF]COMPREENDIDO ESTOU TESTANDO![LF][LF][LF][LF][LF][LF][LF][LF],True,True,True,1 )
+21/07/24 16:27:46:480 - Travar
+21/07/24 16:27:46:482 -    SetRetorno(0, )
+21/07/24 16:27:46:482 - Destravar
+21/07/24 16:27:46:482 - POS_CortarPapel(False )
+21/07/24 16:27:46:482 - Travar
+21/07/24 16:27:46:990 -    SetRetorno(0, )
+21/07/24 16:27:46:990 - Destravar
+21/07/24 16:27:46:991 - POS_Desativar
+21/07/24 16:27:46:991 - Travar
+21/07/24 16:27:46:992 -    SetRetorno(0, )
+21/07/24 16:27:46:992 - Destravar
+21/07/24 16:27:46:992 - LIB_Finalizar
+21/07/24 16:27:46:992 - Finalizar
+21/07/24 16:29:28:268 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:29:28:268 - Travar
+21/07/24 16:29:28:269 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:29:28:269 - Destravar
+21/07/24 16:29:28:269 - TLibPosPrinterConfig.Ler - Feito
+21/07/24 16:29:28:269 - Destravar
+21/07/24 16:29:28:269 - TACBrLibPosPrinter.Inicializar - Feito
+21/07/24 16:29:28:270 - LIB_Inicializar( c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI,  )
+21/07/24 16:29:28:270 -    ACBrLibPosPrinter - 1.0.0.209
+21/07/24 16:29:28:270 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,TipoResposta)
+21/07/24 16:29:28:270 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:29:28:270 - LIB_ConfigGravarValor(Principal, TipoResposta, 2)
+21/07/24 16:29:28:271 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,TipoResposta)
+21/07/24 16:29:28:271 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:29:28:271 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,TipoResposta,2)
+21/07/24 16:29:28:271 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 16:29:28:271 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:29:28:271 - Travar
+21/07/24 16:29:28:272 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:29:28:272 - Destravar
+21/07/24 16:29:28:272 -    SetRetorno(0, )
+21/07/24 16:29:28:272 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogNivel)
+21/07/24 16:29:28:272 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:29:28:273 - LIB_ConfigGravarValor(Principal, LogNivel, 4)
+21/07/24 16:29:28:273 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogNivel)
+21/07/24 16:29:28:273 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:29:28:273 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,LogNivel,4)
+21/07/24 16:29:28:273 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 16:29:28:274 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:29:28:274 - Travar
+21/07/24 16:29:28:274 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:29:28:274 - Destravar
+21/07/24 16:29:28:274 -    SetRetorno(0, )
+21/07/24 16:29:28:275 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogPath)
+21/07/24 16:29:28:275 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:29:28:275 - LIB_ConfigGravarValor(Principal, LogPath, c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\Log)
+21/07/24 16:29:28:275 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogPath)
+21/07/24 16:29:28:275 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:29:28:275 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,LogPath,c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\Log)
+21/07/24 16:29:28:276 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 16:29:28:276 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:29:28:276 - Travar
+21/07/24 16:29:28:276 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:29:28:277 - Destravar
+21/07/24 16:29:28:277 -    SetRetorno(0, )
+21/07/24 16:30:30:669 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:30:30:669 - Travar
+21/07/24 16:30:30:669 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:30:30:670 - Destravar
+21/07/24 16:30:30:670 - TLibPosPrinterConfig.Ler - Feito
+21/07/24 16:30:30:670 - Destravar
+21/07/24 16:30:30:670 - TACBrLibPosPrinter.Inicializar - Feito
+21/07/24 16:30:30:670 - LIB_Inicializar( c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI,  )
+21/07/24 16:30:30:671 -    ACBrLibPosPrinter - 1.0.0.209
+21/07/24 16:30:30:671 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,TipoResposta)
+21/07/24 16:30:30:671 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:30:30:671 - LIB_ConfigGravarValor(Principal, TipoResposta, 2)
+21/07/24 16:30:30:672 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,TipoResposta)
+21/07/24 16:30:30:672 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:30:30:672 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,TipoResposta,2)
+21/07/24 16:30:30:672 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 16:30:30:672 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:30:30:672 - Travar
+21/07/24 16:30:30:672 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:30:30:672 - Destravar
+21/07/24 16:30:30:673 -    SetRetorno(0, )
+21/07/24 16:30:30:673 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogNivel)
+21/07/24 16:30:30:673 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:30:30:673 - LIB_ConfigGravarValor(Principal, LogNivel, 4)
+21/07/24 16:30:30:673 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogNivel)
+21/07/24 16:30:30:674 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:30:30:674 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,LogNivel,4)
+21/07/24 16:30:30:674 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 16:30:30:674 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:30:30:674 - Travar
+21/07/24 16:30:30:675 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:30:30:675 - Destravar
+21/07/24 16:30:30:675 -    SetRetorno(0, )
+21/07/24 16:30:30:675 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogPath)
+21/07/24 16:30:30:675 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:30:30:676 - LIB_ConfigGravarValor(Principal, LogPath, c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\Log)
+21/07/24 16:30:30:676 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogPath)
+21/07/24 16:30:30:676 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:30:30:677 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,LogPath,c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\Log)
+21/07/24 16:30:30:677 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 16:30:30:677 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:30:30:677 - Travar
+21/07/24 16:30:30:678 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:30:30:678 - Destravar
+21/07/24 16:30:30:678 -    SetRetorno(0, )
+21/07/24 16:30:35:125 - POS_Ativar
+21/07/24 16:30:35:125 - Travar
+21/07/24 16:30:35:130 -    SetRetorno(0, )
+21/07/24 16:30:35:130 - Destravar
+21/07/24 16:31:10:604 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:31:10:604 - Travar
+21/07/24 16:31:10:605 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:31:10:605 - Destravar
+21/07/24 16:31:10:605 - TLibPosPrinterConfig.Ler - Feito
+21/07/24 16:31:10:605 - Destravar
+21/07/24 16:31:10:605 - TACBrLibPosPrinter.Inicializar - Feito
+21/07/24 16:31:10:606 - LIB_Inicializar( c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI,  )
+21/07/24 16:31:10:606 -    ACBrLibPosPrinter - 1.0.0.209
+21/07/24 16:31:10:606 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,TipoResposta)
+21/07/24 16:31:10:606 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:31:10:607 - LIB_ConfigGravarValor(Principal, TipoResposta, 2)
+21/07/24 16:31:10:607 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,TipoResposta)
+21/07/24 16:31:10:607 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:31:10:607 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,TipoResposta,2)
+21/07/24 16:31:10:608 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 16:31:10:608 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:31:10:608 - Travar
+21/07/24 16:31:10:608 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:31:10:608 - Destravar
+21/07/24 16:31:10:609 -    SetRetorno(0, )
+21/07/24 16:31:10:609 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogNivel)
+21/07/24 16:31:10:609 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:31:10:609 - LIB_ConfigGravarValor(Principal, LogNivel, 4)
+21/07/24 16:31:10:609 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogNivel)
+21/07/24 16:31:10:610 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:31:10:610 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,LogNivel,4)
+21/07/24 16:31:10:610 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 16:31:10:610 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:31:10:610 - Travar
+21/07/24 16:31:10:610 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:31:10:612 - Destravar
+21/07/24 16:31:10:612 -    SetRetorno(0, )
+21/07/24 16:31:10:612 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogPath)
+21/07/24 16:31:10:612 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:31:10:612 - LIB_ConfigGravarValor(Principal, LogPath, c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\Log)
+21/07/24 16:31:10:613 - TACBrLibPosPrinter.PrecisaCriptografar(Principal,LogPath)
+21/07/24 16:31:10:613 - TACBrLibPosPrinter.PrecisaCriptografar - Feito Result: False
+21/07/24 16:31:10:613 - TLibPosPrinterConfig.AjustarValor(tfGravar,Principal,LogPath,c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\Log)
+21/07/24 16:31:10:613 - TLibPosPrinterConfig.AjustarValor - Feito
+21/07/24 16:31:10:613 - TLibPosPrinterConfig.AplicarConfiguracoes: c:\Users\Particular\OneDrive\ProjetosPython\ApiPosPrinter\ACBrLib.INI
+21/07/24 16:31:10:614 - Travar
+21/07/24 16:31:10:614 - TLibPosPrinterConfig.AplicarConfiguracoes - Feito
+21/07/24 16:31:10:614 - Destravar
+21/07/24 16:31:10:614 -    SetRetorno(0, )
+21/07/24 16:31:13:835 - POS_Ativar
+21/07/24 16:31:13:836 - Travar
+21/07/24 16:31:13:840 -    SetRetorno(0, )
+21/07/24 16:31:13:841 - Destravar
+21/07/24 16:31:13:841 - POS_Inicializar
+21/07/24 16:31:13:841 - Travar
+21/07/24 16:31:13:841 -    SetRetorno(0, )
+21/07/24 16:31:13:842 - Destravar
+21/07/24 16:31:13:842 - POS_Imprimir(</zera>[CR][LF]</ac><e>PROJETO ACBR<e>[CR][LF]<c>Rua teste de endereco, 21[CR][LF]Serra Negra - SP - 13930000[CR][LF]19 9999-9999</c></fn></ae>V4P[CR][LF],True,True,True,1 )
+21/07/24 16:31:13:842 - Travar
+21/07/24 16:31:13:842 -    SetRetorno(0, )
+21/07/24 16:31:13:843 - Destravar
+21/07/24 16:31:14:745 - POS_Ativar
+21/07/24 16:31:14:745 - Travar
+21/07/24 16:31:14:745 -    SetRetorno(0, )
+21/07/24 16:31:14:745 - Destravar
+21/07/24 16:31:14:745 - POS_Inicializar
+21/07/24 16:31:14:746 - Travar
+21/07/24 16:31:14:746 -    SetRetorno(0, )
+21/07/24 16:31:14:746 - Destravar
+21/07/24 16:31:14:746 - POS_Imprimir(</zera>[CR][LF]</ac><e>PROJETO ACBR<e>[CR][LF]<c>Rua teste de endereco, 21[CR][LF]Serra Negra - SP - 13930000[CR][LF]19 9999-9999</c></fn></ae>,True,True,True,1 )
+21/07/24 16:31:14:746 - Travar
+21/07/24 16:31:14:747 -    SetRetorno(0, )
+21/07/24 16:31:14:747 - Destravar
+21/07/24 16:31:15:319 - POS_Ativar
+21/07/24 16:31:15:319 - Travar
+21/07/24 16:31:15:319 -    SetRetorno(0, )
+21/07/24 16:31:15:320 - Destravar
+21/07/24 16:31:15:320 - POS_Inicializar
+21/07/24 16:31:15:320 - Travar
+21/07/24 16:31:15:321 -    SetRetorno(0, )
+21/07/24 16:31:15:321 - Destravar
+21/07/24 16:31:15:321 - POS_Imprimir(</zera>[CR][LF]</ac><e>PROJETO ACBR<e>[CR][LF]<c>Rua teste de endereco, 21[CR][LF]Serra Negra - SP - 13930000[CR][LF]19 9999-9999</c></fn></ae>,True,True,True,1 )
+21/07/24 16:31:15:321 - Travar
+21/07/24 16:31:15:322 -    SetRetorno(0, )
+21/07/24 16:31:15:322 - Destravar
+21/07/24 16:31:16:619 - POS_Ativar
+21/07/24 16:31:16:619 - Travar
+21/07/24 16:31:16:619 -    SetRetorno(0, )
+21/07/24 16:31:16:620 - Destravar
+21/07/24 16:31:16:620 - POS_Inicializar
+21/07/24 16:31:16:620 - Travar
+21/07/24 16:31:16:621 -    SetRetorno(0, )
+21/07/24 16:31:16:621 - Destravar
+21/07/24 16:31:16:621 - POS_Imprimir(</zera>[CR][LF]</ac><e>PROJETO ACBR<e>[CR][LF]<c>Rua teste de endereco, 21[CR][LF]Serra Negra - SP - 13930000[CR][LF]19 9999-9999</c></fn></ae>,True,True,True,1 )
+21/07/24 16:31:16:621 - Travar
+21/07/24 16:31:16:622 -    SetRetorno(0, )
+21/07/24 16:31:16:622 - Destravar
+21/07/24 16:31:33:054 - POS_Ativar
+21/07/24 16:31:33:055 - Travar
+21/07/24 16:31:33:055 -    SetRetorno(0, )
+21/07/24 16:31:33:055 - Destravar
+21/07/24 16:31:33:055 - POS_Inicializar
+21/07/24 16:31:33:056 - Travar
+21/07/24 16:31:33:056 -    SetRetorno(0, )
+21/07/24 16:31:33:057 - Destravar
+21/07/24 16:31:33:057 - POS_Imprimir(</zera>[CR][LF]<ac><e>PROJETO ACBR<e>[CR][LF]<c>Rua teste de endereco, 21[CR][LF]Serra Negra - SP - 13930000[CR][LF]19 9999-9999</c></fn></ae>DFOB[CR][LF],True,True,True,1 )
+21/07/24 16:31:33:057 - Travar
+21/07/24 16:31:33:058 -    SetRetorno(0, )
+21/07/24 16:31:33:058 - Destravar
+21/07/24 16:31:34:224 - POS_Ativar
+21/07/24 16:31:34:225 - Travar
+21/07/24 16:31:34:225 -    SetRetorno(0, )
+21/07/24 16:31:34:225 - Destravar
+21/07/24 16:31:34:226 - POS_Inicializar
+21/07/24 16:31:34:226 - Travar
+21/07/24 16:31:34:226 -    SetRetorno(0, )
+21/07/24 16:31:34:227 - Destravar
+21/07/24 16:31:34:227 - POS_Imprimir(</zera>[CR][LF]<ac><e>PROJETO ACBR<e>[CR][LF]<c>Rua teste de endereco, 21[CR][LF]Serra Negra - SP - 13930000[CR][LF]19 9999-9999</c></fn></ae>,True,True,True,1 )
+21/07/24 16:31:34:227 - Travar
+21/07/24 16:31:34:228 -    SetRetorno(0, )
+21/07/24 16:31:34:228 - Destravar
+21/07/24 16:31:35:776 - POS_Ativar
+21/07/24 16:31:35:776 - Travar
+21/07/24 16:31:35:776 -    SetRetorno(0, )
+21/07/24 16:31:35:776 - Destravar
+21/07/24 16:31:35:777 - POS_Inicializar
+21/07/24 16:31:35:777 - Travar
+21/07/24 16:31:35:777 -    SetRetorno(0, )
+21/07/24 16:31:35:777 - Destravar
+21/07/24 16:31:35:778 - POS_Imprimir(</zera>[CR][LF]<ac><e>PROJETO ACBR<e>[CR][LF]<c>Rua teste de endereco, 21[CR][LF]Serra Negra - SP - 13930000[CR][LF]19 9999-9999</c></fn></ae>,True,True,True,1 )
+21/07/24 16:31:35:778 - Travar
+21/07/24 16:31:35:778 -    SetRetorno(0, )
+21/07/24 16:31:35:778 - Destravar
