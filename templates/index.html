@@ -1,0 +1,142 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exemplo ACBrLibPosPrinter com Python + HTML</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #536493;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .container {
+            text-align: center;
+            background: #000000;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            margin: 20px;
+        }
+        .header {
+            font-size: 16px;
+            color: #e7e9c9;
+            margin-bottom: 20px;
+        }
+        .subheader {
+            font-size: 16px;
+            color: #e7e9c9;
+            margin-bottom: 20px;
+        }
+        .content {
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+        }
+        .buttons {
+            display: flex;
+            flex-direction: column;
+            margin-right: 20px;
+        }
+        textarea {
+            width: 600px;
+            height: 300px;
+            padding: 10px;
+            border: 1px solid #FFF1DB;
+            border-radius: 4px;
+            resize: none;
+        }
+        .responseMessage {
+            width: 600px;
+            height: 50px;
+            padding: 10px;
+            border: 1px solid #FFF1DB;
+            border-radius: 4px;
+            resize: none;
+        }
+        button {
+            margin: 10px 0;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 4px;
+            background-color: #EF5A6F;
+            color: #fff;
+            font-size: 16px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #c23a4c;
+        }
+        form {
+            margin-bottom: 20px;
+        }
+        .logo {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header"> <h1> Exemplo ACBrLibPosPrinter(MT) com Python + HTML </h1> </div>
+        <div class="subheader">Desenvolvido por Daniel Morais - InfoCotidiano</div>
+        <div class="content">
+            <div class="buttons">
+                <button id="example1">Exemplo 1</button>
+                <button id="example2">Exemplo 2</button>
+                <button id="clear">Limpar</button>
+                <img src="https://projetoacbr.com.br/wp-content/uploads/2022/10/logo_branco-150x150.png" alt="Logo" class="logo" width="150" height="150">
+            </div>
+            <form id="form" action="/submit" method="post">
+                <div class="header"> <label for="text">Texto:</label><br></div>
+                <textarea id="text" name="text"></textarea><br>
+                <button type="submit">OK</button>
+            </form>
+        </div>
+        <div class="header"><h2>Mensagem de Retorno</h2></div>
+        <textarea id="responseMessage" class="responseMessage" readonly></textarea>
+    </div>
+    <script>
+        document.getElementById('form').addEventListener('submit', function(event) {
+            event.preventDefault();
+            const formData = new FormData(this);
+            fetch('/submit', {
+                method: 'POST',
+                body: formData
+            })
+            .then(response => {
+                return response.json().then(data => ({status: response.status, body: data}));
+            })
+            .then(result => {
+                const responseMessage = document.getElementById('responseMessage');
+                if (result.status === 200) {
+                    responseMessage.value = 'Sucesso: ' + JSON.stringify(result.body);
+                } else {
+                    responseMessage.value = 'Erro: ' + JSON.stringify(result.body);
+                }
+            })
+            .catch((error) => {
+                const responseMessage = document.getElementById('responseMessage');
+                responseMessage.value = 'Erro: ' + error;
+            });
+        });
+
+        document.getElementById('example1').addEventListener('click', function() {
+            document.getElementById('text').value = 'exemplo 1';
+        });
+
+        document.getElementById('example2').addEventListener('click', function() {
+            document.getElementById('text').value = 'exemplo 2';
+        });
+
+        document.getElementById('clear').addEventListener('click', function() {
+            document.getElementById('text').value = '';
+        });
+    </script>
+</body>
+</html>
