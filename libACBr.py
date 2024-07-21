@@ -106,13 +106,12 @@ def configPorta():
     limpar_tela()
     LModelo, LPorta = CarregaConfiguracao()
     print(LPorta)
-    print(
-    '''
+    print('''
     --------------------------------------------------------------------------
     EXEMPLO: ACBrLib para Impressora de Cupom
     ----------------------------- Configuração -------------------------------
     
-    Exemplos: Com1, LPT1, USB, raw:i9, \\servidorimpressao\i9
+    Exemplos: Com1, LPT1, USB, raw:i9
     
     '''
     )
@@ -127,7 +126,7 @@ def configModelo():
     LModelo, LPorta = CarregaConfiguracao()
     print(
     '''
-    --------------------------------------------------------------------------1
+    --------------------------------------------------------------------------
     EXEMPLO: ACBrLib para Impressora CUPOM | Configura PORTA
     ----------------------------- Configuração -------------------------------
     '''
